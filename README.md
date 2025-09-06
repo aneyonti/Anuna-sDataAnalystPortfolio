@@ -31,3 +31,15 @@ c. Technologies Used
 - Matplotlib/Seaborn
 
 - Jupyter Notebook
+
+d. Key Insights:
+
+- Higher star ratings align with more positive sentiment.
+
+- Longer reviews tend to express stronger sentiment (positive or negative).
+
+- Mid/high-priced products slightly outperform low-priced ones in ratings.
+
+- Skincare and Makeup categories have higher sentiment than Haircare.
+
+- Price alone does not significantly determine sentiment (ANOVA test shows weak effect).
