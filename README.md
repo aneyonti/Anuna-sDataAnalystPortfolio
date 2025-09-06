@@ -3,3 +3,29 @@
 Hi! I’m Anuna, a recent Master’s graduate in Business Analytics with a background in Economics. I’m passionate about turning data into actionable insights and using analytics to solve real-world business problems.
 
 During my studies and projects, I’ve worked extensively with Python, Excel, and data visualization tools to analyze datasets, perform statistical analyses, and communicate findings effectively. I enjoy exploring datasets related to consumer behavior, marketing trends, and product reviews, and sharing insights that drive smarter decisions.
+
+## Project 1 - Sentiment Analysis on Sephora Reviews
+a. Objective
+This project analyzes customer reviews from Sephora using Natural Language Processing (NLP) techniques to extract sentiment and uncover key themes affecting customer satisfaction.
+
+b. Key Features
+
+- Data preprocessing (cleaning, tokenization, etc.)
+
+- Sentiment analysis (model used, e.g., VADER, BERT, or TextBlob)
+
+- Visualization of sentiment distribution
+
+- Insights derived from the analysis
+
+c. Technologies Used
+
+- Python
+
+- Pandas, NumPy
+
+- NLTK/spaCy/TextBlob
+
+- Matplotlib/Seaborn
+
+- Jupyter Notebook
