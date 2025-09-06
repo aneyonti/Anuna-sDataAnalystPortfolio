@@ -1,0 +1,7 @@
+Sephora-sentiment-analysis/
+├── data/
+├── notebooks/
+├── scripts/
+├── outputs/
+├── README.md
+└── requirements.txt
