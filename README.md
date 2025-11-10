@@ -43,3 +43,40 @@ d. Key Insights:
 - Skincare and Makeup categories have higher sentiment than Haircare.
 
 - Price alone does not significantly determine sentiment (ANOVA test shows weak effect).
+
+- ## Project 2 - Walmart Sales Analysis & Forecasting
+
+a. Objective
+
+To analyze Walmart’s historical sales data to uncover key patterns, understand how external factors (fuel price, temperature, unemployment rate, holidays) influence sales performance, and build a predictive model to forecast future sales trends.
+
+b. Key Features
+
+- Conducted data cleaning and transformation in SQL and Power BI for accuracy and consistency.
+
+- Built interactive Power BI dashboards to visualize time-based and factor-based sales patterns.
+
+- Performed comparative analysis to assess the impact of holidays, fuel prices, and economic indicators on sales.
+
+- Implemented forecasting models using Power BI’s built-in predictive analytics to project future sales.
+
+c. Technologies Used
+
+- SQL – for data extraction, aggregation, and metric calculation
+
+- Power BI – for dashboard design, DAX calculations, and forecasting visualization
+
+- Excel – for initial data exploration and validation
+
+d. Key Insights:
+
+- Sales Timing: Sales are consistently higher in the first half of each month (Days 1–15), indicating stronger early-month purchasing behavior.
+
+- Seasonal Patterns: June, July, and August rank among the top months for sales, showing strong summer seasonality.
+
+- Holiday Impact: Presence of holidays increases sales by about 8 million USD, but overall sales contributions remain nearly balanced between holiday and non-holiday periods (~50/50).
+
+- Focus marketing campaigns and promotions in early months and summer seasons to capitalize on peak demand.
+
+- Plan inventory and staffing ahead of holiday periods and summer months.
+
