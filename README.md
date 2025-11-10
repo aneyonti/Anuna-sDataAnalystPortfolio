@@ -46,6 +46,8 @@ d. Key Insights:
 
 ## Project 2 - Walmart Sales Analysis & Forecasting
 
+![Walmart Sales Dashboard](images/walmartsales-page1.png)
+
 a. Objective
 
 To analyze Walmart’s historical sales data to uncover key patterns, understand how external factors (fuel price, temperature, unemployment rate, holidays) influence sales performance, and build a predictive model to forecast future sales trends.
@@ -79,4 +81,3 @@ d. Key Insights:
 - Focus marketing campaigns and promotions in early months and summer seasons to capitalize on peak demand.
 
 - Plan inventory and staffing ahead of holiday periods and summer months.
-
