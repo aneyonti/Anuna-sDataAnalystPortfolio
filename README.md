@@ -6,6 +6,8 @@ During my studies and projects, I’ve worked extensively with Python, Excel, an
 
 ## Project 1 - Sentiment Analysis on Sephora Reviews
 
+![Sephora Product Analysis](sephoraproductanalysis.png)
+
 a. Objective
 
 This project analyzes customer reviews from Sephora using Natural Language Processing (NLP) techniques to extract sentiment and uncover key themes affecting customer satisfaction.
