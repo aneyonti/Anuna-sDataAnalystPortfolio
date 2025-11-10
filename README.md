@@ -44,7 +44,7 @@ d. Key Insights:
 
 - Price alone does not significantly determine sentiment (ANOVA test shows weak effect).
 
-- ## Project 2 - Walmart Sales Analysis & Forecasting
+## Project 2 - Walmart Sales Analysis & Forecasting
 
 a. Objective
 
