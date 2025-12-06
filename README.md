@@ -48,7 +48,7 @@ d. Key Insights:
 
 ## Project 2 - Walmart Sales Analysis & Forecasting
 
-<img src="images/walmartsales_page-1.png" style="width: 50%; height: auto;"> 
+<img src="images/walmartsales-page1.png" style="width: 50%; height: auto;"> 
 
 a. Objective
 
