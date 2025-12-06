@@ -6,7 +6,7 @@ During my studies and projects, I’ve worked extensively with Python, Excel, SQ
 
 ## Project 1 - Sentiment Analysis on Sephora Reviews
 
-![Sephora Product Analysis] <img src="images/sephoraproductanalysis.png" style="width: 50%; height: auto;">
+<img src="images/sephoraproductanalysis.png" style="width: 50%; height: auto;">
 
 a. Objective
 
@@ -48,7 +48,7 @@ d. Key Insights:
 
 ## Project 2 - Walmart Sales Analysis & Forecasting
 
-![Walmart Sales Dashboard](images/walmartsales-page1.png)
+<img src="images/walmartsales_page-1.png" style="width: 50%; height: auto;"> 
 
 a. Objective
 
