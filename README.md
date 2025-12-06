@@ -6,7 +6,7 @@ During my studies and projects, I’ve worked extensively with Python, Excel, SQ
 
 ## Project 1 - Sentiment Analysis on Sephora Reviews
 
-![Sephora Product Analysis](images/sephoraproductanalysis.png)
+![Sephora Product Analysis] <img src="images/sephoraproductanalysis.png" style="width: 50%; height: auto;">
 
 a. Objective
 
