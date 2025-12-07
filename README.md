@@ -83,3 +83,78 @@ d. Key Insights:
 - Focus marketing campaigns and promotions in early months and summer seasons to capitalize on peak demand.
 
 - Plan inventory and staffing ahead of holiday periods and summer months.
+
+## Project 3 - Contoso Business Analytics: Sales, Cohorts & Churn
+
+a. Objective
+
+This project analyzes e-commerce customer behavior using SQL, focusing on segmentation, cohort performance, and retention patterns. The goal is to understand customer value, identify churn risks, and provide data-driven strategies to improve retention and maximize revenue.
+
+b. Key Features
+
+Customer Segmentation:
+- Categorized customers by Lifetime Value (LTV)
+- Grouped into High-, Mid-, and Low-value segments
+- Calculated segment-level revenue contribution
+
+Cohort Analysis:
+- Grouped customers by year of first purchase
+- Analyzed revenue and customer trends across cohorts
+
+Retention Analysis:
+- Identified customers at risk of churn
+- Analyzed last purchase behavior and long-term churn patterns
+
+c. Technologies Used
+
+- PostgreSQL
+
+- SQL (CTEs, window functions, aggregations)
+
+- PGAdmin / DBeaver
+
+- ChatGPT (visualization generation)
+
+d. Key Insights
+
+Customer Segmentation:
+- High-value customers (25%) generate 66% of total revenue ($135.4M)
+- Mid-value customers (50%) contribute 32% ($66.6M)
+- Low-value customers (25%) make up only 2% ($4.3M)
+
+Cohort Analysis:
+- Revenue per customer is declining over time
+- 2022–2024 cohorts underperform compared to earlier groups
+- Net revenue is rising mainly due to more customers, not higher value
+- A drop in 2023 customer acquisition signals potential long-term decline
+
+Retention:
+- Cohort churn plateaus at ~90% after 2–3 years
+- Consistently low long-term retention (8–10%) across all cohorts
+- Newer cohorts mirror older churn patterns, indicating systemic issues
+
+e. Strategic Recommendations
+
+### 1. Customer Value Optimization
+
+Launch a VIP program for 12,372 high-value customers
+
+Personalize promotions to shift mid-value customers upward
+
+Use discounts & frequency-based incentives for low-value customers
+
+### 2. Cohort Performance Strategy
+
+Re-engage 2022–2024 cohorts with targeted offers
+
+Build loyalty/subscription programs to stabilize cohort value
+
+Apply tactics from strong 2016–2018 cohorts to newer ones
+
+### 3. Retention & Churn Prevention
+
+Strengthen early engagement (years 1–2) via onboarding and loyalty rewards
+
+Win-back high-value churned customers for higher ROI
+
+Use predictive churn indicators to intervene proactively
