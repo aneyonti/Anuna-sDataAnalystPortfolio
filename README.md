@@ -8,11 +8,11 @@ During my studies and projects, I’ve worked extensively with Python, Excel, SQ
 
 <img src="images/sephoraproductanalysis.png" style="width: 50%; height: auto;">
 
-a. Objective
+#### a. Objective
 
 This project analyzes customer reviews from Sephora using Natural Language Processing (NLP) techniques to extract sentiment and uncover key themes affecting customer satisfaction.
 
-b. Key Features
+#### b. Key Features
 
 - Data preprocessing (cleaning, tokenization, etc.)
 
@@ -22,7 +22,7 @@ b. Key Features
 
 - Insights derived from the analysis
 
-c. Technologies Used
+#### c. Technologies Used
 
 - Python
 
@@ -34,7 +34,7 @@ c. Technologies Used
 
 - Jupyter Notebook
 
-d. Key Insights:
+#### d. Key Insights:
 
 - Higher star ratings align with more positive sentiment.
 
@@ -50,11 +50,11 @@ d. Key Insights:
 
 <img src="images/walmartsales-page1.png" style="width: 50%; height: auto;"> 
 
-a. Objective
+#### a. Objective
 
 To analyze Walmart’s historical sales data to uncover key patterns, understand how external factors (fuel price, temperature, unemployment rate, holidays) influence sales performance, and build a predictive model to forecast future sales trends.
 
-b. Key Features
+#### b. Key Features
 
 - Conducted data cleaning and transformation in SQL and Power BI for accuracy and consistency.
 
@@ -64,7 +64,7 @@ b. Key Features
 
 - Implemented forecasting models using Power BI’s built-in predictive analytics to project future sales.
 
-c. Technologies Used
+#### c. Technologies Used
 
 - SQL – for data extraction, aggregation, and metric calculation
 
@@ -72,7 +72,7 @@ c. Technologies Used
 
 - Excel – for initial data exploration and validation
 
-d. Key Insights:
+#### d. Key Insights:
 
 - Sales Timing: Sales are consistently higher in the first half of each month (Days 1–15), indicating stronger early-month purchasing behavior.
 
@@ -86,11 +86,11 @@ d. Key Insights:
 
 ## Project 3 - Contoso Business Analytics: Sales, Cohorts & Churn
 
-a. Objective
+### a. Objective
 
 This project analyzes e-commerce customer behavior using SQL, focusing on segmentation, cohort performance, and retention patterns. The goal is to understand customer value, identify churn risks, and provide data-driven strategies to improve retention and maximize revenue.
 
-b. Key Features
+#### b. Key Features
 
 Customer Segmentation:
 - Categorized customers by Lifetime Value (LTV)
@@ -105,7 +105,7 @@ Retention Analysis:
 - Identified customers at risk of churn
 - Analyzed last purchase behavior and long-term churn patterns
 
-c. Technologies Used
+#### c. Technologies Used
 
 - PostgreSQL
 
@@ -115,7 +115,7 @@ c. Technologies Used
 
 - ChatGPT (visualization generation)
 
-d. Key Insights
+#### d. Key Insights
 
 Customer Segmentation:
 - High-value customers (25%) generate 66% of total revenue ($135.4M)
@@ -133,28 +133,19 @@ Retention:
 - Consistently low long-term retention (8–10%) across all cohorts
 - Newer cohorts mirror older churn patterns, indicating systemic issues
 
-e. Strategic Recommendations
+#### e. Strategic Recommendations
 
-### 1. Customer Value Optimization
+Customer Value Optimization: 
+- Launch a VIP program for 12,372 high-value customers
+- Personalize promotions to shift mid-value customers upward
+- Use discounts & frequency-based incentives for low-value customers
 
-Launch a VIP program for 12,372 high-value customers
+Cohort Performance Strategy:
+- Re-engage 2022–2024 cohorts with targeted offers
+- Build loyalty/subscription programs to stabilize cohort value
+- Apply tactics from strong 2016–2018 cohorts to newer ones
 
-Personalize promotions to shift mid-value customers upward
-
-Use discounts & frequency-based incentives for low-value customers
-
-### 2. Cohort Performance Strategy
-
-Re-engage 2022–2024 cohorts with targeted offers
-
-Build loyalty/subscription programs to stabilize cohort value
-
-Apply tactics from strong 2016–2018 cohorts to newer ones
-
-### 3. Retention & Churn Prevention
-
-Strengthen early engagement (years 1–2) via onboarding and loyalty rewards
-
-Win-back high-value churned customers for higher ROI
-
-Use predictive churn indicators to intervene proactively
+Retention & Churn Prevention: 
+- Strengthen early engagement (years 1–2) via onboarding and loyalty rewards
+- Win-back high-value churned customers for higher ROI
+- Use predictive churn indicators to intervene proactively
