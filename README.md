@@ -113,7 +113,7 @@ Retention Analysis:
 
 - PGAdmin / DBeaver
 
-- ChatGPT (visualization generation)
+- Perplexity (visualization generation)
 
 **d. Key Insights**
 
