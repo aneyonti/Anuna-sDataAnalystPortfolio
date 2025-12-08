@@ -117,16 +117,22 @@ Retention Analysis:
 
 **d. Key Insights**
 
+<img src="images/CustomerSegmentPieChart.png" style="width: 50%; height: auto;"> 
+
 Customer Segmentation:
 - High-value customers (25%) generate 66% of total revenue ($135.4M)
 - Mid-value customers (50%) contribute 32% ($66.6M)
 - Low-value customers (25%) make up only 2% ($4.3M)
+
+<img src="images/CohortAnalysis.png" style="width: 50%; height: auto;"> 
 
 Cohort Analysis:
 - Revenue per customer is declining over time
 - 2022–2024 cohorts underperform compared to earlier groups
 - Net revenue is rising mainly due to more customers, not higher value
 - A drop in 2023 customer acquisition signals potential long-term decline
+
+<img src="images/RetentionAnalysis.png" style="width: 50%; height: auto;"> 
 
 Retention:
 - Cohort churn plateaus at ~90% after 2–3 years
