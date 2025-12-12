@@ -151,7 +151,66 @@ Cohort Performance Strategy:
 - Build loyalty/subscription programs to stabilize cohort value
 - Apply tactics from strong 2016–2018 cohorts to newer ones
 
-Retention & Churn Prevention: 
-- Strengthen early engagement (years 1–2) via onboarding and loyalty rewards
-- Win-back high-value churned customers for higher ROI
-- Use predictive churn indicators to intervene proactively
+## Project 4 - Data Jobs Salary Dashboard: Compensation, Skills & Geographic Insights
+
+<img src="images/SalaryCalculator.png" style="width: 50%; height: auto;"> 
+
+**a. Objective**
+
+This project analyzes real-world data science job information from 2023 using Excel, focusing on salary trends across job titles, countries, and schedule types. The goal is to help job seekers understand compensation ranges, identify high-paying roles, and make data-driven career decisions.
+
+**b. Key Features**
+
+Salary Visualization:
+- Built a bar chart comparing median salaries by job title
+- Sorted salary data to highlight high-paying vs. low-paying roles
+- Displayed clear patterns showing senior and engineering positions earning more than analyst roles
+
+Geographic Salary Mapping:
+- Created a map chart to visualize median salaries by country
+- Color-coded regions to highlight global compensation disparities
+- Enabled fast recognition of which countries offer the highest median pay
+
+Excel Automation & Calculations:
+### Median Salary Calculation
+<img src="images/MedianSalary.png" style="width: 50%; height: auto;"> 
+ Used a multi-criteria array formula to calculate median salary by job title, country, and schedule type:
+
+- Filters by job title, country, and schedule type
+- Excludes missing or zero salary values
+- Powers all calculations used in the dashboard tables
+
+Data Cleaning & Validation:
+- Created a filtered list of unique schedule types using the FILTER() function
+- Removed invalid entries (“and”, commas, zeros) to ensure accurate user selections
+- Implemented data validation dropdowns for job title, country, and schedule type to improve usability and consistency
+
+
+**c. Technologies Used**
+
+- Microsoft Excel
+  
+- Charts (Bar Chart, Map Chart)
+
+- Functions & Formulas (MEDIAN, IF, FILTER)
+
+- Data Validation
+
+- Lookup and array formulas
+
+**d. Key Insights**
+
+Salary Trends by Job Title:
+- Senior-level and engineering roles consistently earn higher median salaries
+- Analyst positions fall on the lower end of the salary spectrum
+- Sorting salaries highlights clear progression in pay with experience and specialization
+
+Geographic Salary Differences:
+- Significant variation in pay across countries
+- High-income regions show noticeably higher median salaries
+- Map visualization makes salary disparities immediately identifiable
+
+Schedule Type & Compensation:
+- Salary levels also depend on job schedule type (full-time, hybrid, remote, etc.)
+- Filtering by validated schedule types allows accurate comparisons
+- The dashboard lets users tailor salary insights based on the job style they want
