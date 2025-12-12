@@ -153,7 +153,7 @@ Cohort Performance Strategy:
 
 ## Project 4 - Data Jobs Salary Dashboard: Compensation, Skills & Geographic Insights
 
-<img src="images/SalaryCalculator.png" style="width: 50%; height: auto;"> 
+<img src="images/SalaryDashboard.png" style="width: 50%; height: auto;"> 
 
 **a. Objective**
 
