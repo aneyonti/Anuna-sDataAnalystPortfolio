@@ -214,3 +214,81 @@ Schedule Type & Compensation:
 - Salary levels also depend on job schedule type (full-time, hybrid, remote, etc.)
 - Filtering by validated schedule types allows accurate comparisons
 - The dashboard lets users tailor salary insights based on the job style they want
+
+## Project 5 – Data Science Job Market Analysis (Excel)
+
+**a. Objective**
+
+This project analyzes the 2023 data science job market using Excel to understand how skills, roles, and geography impact salary outcomes. The goal was to identify which skills are most valuable, how pay differs by region, and whether acquiring more technical skills leads to higher compensation.
+
+**b. Key Features**
+
+Skill vs. Salary Analysis:
+- Measured the relationship between number of required skills and median salary
+- Compared compensation across different data roles
+- Evaluated how specialization impacts pay
+
+Regional Salary Analysis:
+- Compared median salaries for data roles in the United States vs. non-US markets
+- Analyzed how geography affects compensation across job titles
+
+Skill Demand Analysis:
+- Identified the most in-demand skills across data roles
+- Examined skill frequency using a relational data model
+
+Skill Pay Analysis:
+
+<img src="images/skillsalaryanalysis.png" style="width: 50%; height: auto;"> 
+- Calculated median salary associated with the top 10 skills
+- Compared salary impact vs. likelihood of each skill appearing in job posting
+
+**c. Technologies Used**
+
+- Power Query (ETL & data cleaning)
+
+- Power Pivot (Data Model & relationships)
+
+- PivotTables & PivotCharts
+
+- DAX (median salary calculations)
+
+- Advanced combo charts
+
+**d. Key Insights**
+
+Skill Count & Salary:
+- There is a positive correlation between the number of skills required and median salary
+- Senior Data Engineer and Data Scientist roles show the strongest skill-to-salary relationship
+- Roles with fewer required skills (e.g., Business Analyst) consistently earn less
+
+Regional Salary Differences:
+- Senior Data Engineer and Data Scientist roles command the highest salaries globally
+- US-based roles pay significantly more than non-US roles, especially in technical positions
+- Salary gaps are most pronounced in high-tech and senior-level roles
+
+Top Skills in Data Jobs:
+<img src="images/topskills.png" style="width: 50%; height: auto;"> 
+- SQL and Python are the most dominant skills across data roles
+- Cloud technologies (AWS, Azure) show strong demand, reflecting industry shifts toward cloud-based analytics
+
+Top 10 Skills by Pay:
+<img src="images/topskillspay.png" style="width: 50%; height: auto;"> 
+- Python, SQL, and Oracle are associated with the highest median salaries
+- Tools like PowerPoint and Word have the lowest salary impact and skill likelihood
+- High-paying skills tend to be both specialized and technical
+
+**e. Strategic Takeaways**
+
+For Job Seekers:
+<img src="images/salaryvsskills.png" style="width: 50%; height: auto;"> 
+- Investing in high-value technical skills (Python, SQL, cloud platforms) significantly improves salary potential
+- Building a broader technical skill stack is especially important for senior-level roles
+- Geographic location should factor into job search and salary negotiation strategy
+
+For Educators & Employers:
+- Training programs should prioritize SQL, Python, and cloud technologies
+- Employers can use skill-based pay benchmarks to remain competitive in hiring
+
+**f. Conclusion**
+
+This Excel-based project demonstrates how data analytics can uncover actionable insights in the job market. By leveraging Power Query, Power Pivot, DAX, and visualization tools, I identified clear relationships between skills, salary, and geography in data science roles. The findings reinforce that specialized technical skills, particularly Python, SQL, and cloud technologies, are critical drivers of higher compensation in today’s data job market.
