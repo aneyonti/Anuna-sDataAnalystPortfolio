@@ -239,6 +239,7 @@ Skill Demand Analysis:
 Skill Pay Analysis:
 
 <img src="images/skillsalaryanalysis.png" style="width: 50%; height: auto;"> 
+
 - Calculated median salary associated with the top 10 skills
 - Compared salary impact vs. likelihood of each skill appearing in job posting
 
@@ -269,12 +270,14 @@ Regional Salary Differences:
 Top Skills in Data Jobs:
 
 <img src="images/topskills.png" style="width: 50%; height: auto;"> 
+
 - SQL and Python are the most dominant skills across data roles
 - Cloud technologies (AWS, Azure) show strong demand, reflecting industry shifts toward cloud-based analytics
 
 Top 10 Skills by Pay:
 
 <img src="images/topskillspay.png" style="width: 50%; height: auto;"> 
+
 - Python, SQL, and Oracle are associated with the highest median salaries
 - Tools like PowerPoint and Word have the lowest salary impact and skill likelihood
 - High-paying skills tend to be both specialized and technical
@@ -284,6 +287,7 @@ Top 10 Skills by Pay:
 For Job Seekers:
 
 <img src="images/salaryvsskills.png" style="width: 50%; height: auto;"> 
+
 - Investing in high-value technical skills (Python, SQL, cloud platforms) significantly improves salary potential
 - Building a broader technical skill stack is especially important for senior-level roles
 - Geographic location should factor into job search and salary negotiation strategy
