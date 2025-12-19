@@ -267,11 +267,13 @@ Regional Salary Differences:
 - Salary gaps are most pronounced in high-tech and senior-level roles
 
 Top Skills in Data Jobs:
+
 <img src="images/topskills.png" style="width: 50%; height: auto;"> 
 - SQL and Python are the most dominant skills across data roles
 - Cloud technologies (AWS, Azure) show strong demand, reflecting industry shifts toward cloud-based analytics
 
 Top 10 Skills by Pay:
+
 <img src="images/topskillspay.png" style="width: 50%; height: auto;"> 
 - Python, SQL, and Oracle are associated with the highest median salaries
 - Tools like PowerPoint and Word have the lowest salary impact and skill likelihood
@@ -280,6 +282,7 @@ Top 10 Skills by Pay:
 **e. Strategic Takeaways**
 
 For Job Seekers:
+
 <img src="images/salaryvsskills.png" style="width: 50%; height: auto;"> 
 - Investing in high-value technical skills (Python, SQL, cloud platforms) significantly improves salary potential
 - Building a broader technical skill stack is especially important for senior-level roles
