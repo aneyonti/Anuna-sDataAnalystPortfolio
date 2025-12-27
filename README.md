@@ -299,3 +299,44 @@ For Educators & Employers:
 **f. Conclusion**
 
 This Excel-based project demonstrates how data analytics can uncover actionable insights in the job market. By leveraging Power Query, Power Pivot, DAX, and visualization tools, I identified clear relationships between skills, salary, and geography in data science roles. The findings reinforce that specialized technical skills, particularly Python, SQL, and cloud technologies, are critical drivers of higher compensation in today’s data job market.
+
+## Project 6 - Monthly Budgeting, Forecasting & Dynamic P&L Model on Excel
+
+<img src="images/DynamicIncomeStatement.png" style="width: 50%; height: auto;">
+
+**a. Objectives**
+This project demonstrates a monthly budgeting and forecasting model built in Excel to support financial planning, scenario analysis, and profitability evaluation.
+
+- Built a 12-month monthly budgeting and forecasting model in Excel to analyze operating expenses and profitability
+
+- Forecasted operating expenses using Excel’s built-in time series tools and assumption-driven inputs
+
+- Developed best-, base-, and worst-case scenarios to evaluate financial risk and sensitivity
+
+- Created a fully dynamic Profit & Loss statement that updated automatically based on forecast and scenario changes.
+
+**b. Key Features**
+
+<img src="images/forecastinglogic.png" style="width: 50%; height: auto;">
+
+- Operating Expenses: Fixed and variable cost modeling
+
+- Expense Forecasting: Time-series forecasting using Excel tools
+
+- Scenario Analysis: Best, base, and worst-case financial outcomes
+
+- Dynamic P&L: Automatically updates based on assumptions and scenarios
+
+**c. Technologies Used**
+
+- Microsoft Excel (forecasting tools, formulas, scenario analysis)
+
+**d. Key Insights + Use Cases**
+
+- Understand how changes in operating expenses impact profitability
+
+- Evaluate financial risk under downside (worst-case) scenarios
+
+- Compare expected performance across different planning assumptions
+
+- Support monthly and forward-looking financial decision-making
