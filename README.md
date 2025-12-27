@@ -302,7 +302,7 @@ This Excel-based project demonstrates how data analytics can uncover actionable 
 
 ## Project 6 - Monthly Budgeting, Forecasting & Dynamic P&L Model on Excel
 
-<img src="images/DynamicIncomeStatement.png" style="width: 50%; height: auto;">
+<img src="images/DynamicIncomeStatment.png" style="width: 50%; height: auto;">
 
 **a. Objectives**
 This project demonstrates a monthly budgeting and forecasting model built in Excel to support financial planning, scenario analysis, and profitability evaluation.
