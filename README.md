@@ -305,6 +305,7 @@ This Excel-based project demonstrates how data analytics can uncover actionable 
 <img src="images/DynamicIncomeStatment.png" style="width: 50%; height: auto;">
 
 **a. Objectives**
+
 This project demonstrates a monthly budgeting and forecasting model built in Excel to support financial planning, scenario analysis, and profitability evaluation.
 
 - Built a 12-month monthly budgeting and forecasting model in Excel to analyze operating expenses and profitability
